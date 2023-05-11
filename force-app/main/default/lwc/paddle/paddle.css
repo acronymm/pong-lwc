@@ -1,0 +1,6 @@
+.paddle {
+    height: 50px;
+    width: 10px;
+    background-color: black;
+    transform: translateY(200px);
+}
